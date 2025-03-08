@@ -1,4 +1,4 @@
-# Dynamic Modeling of Electric Machines
+# Dynamic Modeling of  DC and Synchronous motors on MATLAB/Simulink
 
 This repository contains two projects focused on the dynamic modeling of electric machines using MATLAB/Simulink:
 1. **Synchronous Generator (Hydro Turbine)**  
