@@ -68,15 +68,15 @@ The projects demonstrate the implementation of dynamic models for both AC and DC
 | Figure | Description |
 |--------|-------------|
 | ![](images/fig10.png) | Speed stabilizes at 11.78 rad/s. |
-| Fig 18 | Torque angle settles at -16° (generating mode). |
-| Fig 19 | Electromagnetic torque oscillates before stabilizing. |
+| ![](images/fig18.png) | Torque angle settles at -16° (generating mode). |
+| ![](images/fig19.png) | Electromagnetic torque oscillates before stabilizing. |
 
 ### DC Motor
 | Figure | Description |
 |--------|-------------|
-| Fig 2  | No-load speed rises exponentially to 275 rad/s. |
-| Fig 3  | Loaded speed stabilizes at 150 rad/s. |
-| Fig 5  | Armature current peaks at 250 A during loaded startup. |
+| ![](images/fig2.png)  | No-load speed rises exponentially to 275 rad/s. |
+| ![](images/fig3.png)  | Loaded speed stabilizes at 150 rad/s. |
+| ![](images/fig5.png)  | Armature current peaks at 250 A during loaded startup. |
 
 ---
 
