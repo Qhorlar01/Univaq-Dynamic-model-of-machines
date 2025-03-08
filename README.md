@@ -67,7 +67,7 @@ The projects demonstrate the implementation of dynamic models for both AC and DC
 ### Synchronous Generator
 | Figure | Description |
 |--------|-------------|
-| Fig 10 | Speed stabilizes at 11.78 rad/s. |
+| ![](images/fig10.png) | Speed stabilizes at 11.78 rad/s. |
 | Fig 18 | Torque angle settles at -16° (generating mode). |
 | Fig 19 | Electromagnetic torque oscillates before stabilizing. |
 
